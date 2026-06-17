@@ -1,7 +1,7 @@
 # ⚡ Energy-Aware Machine Learning (EnergyML)
 
 ## 📌 Overview
-This project trains EfficientNet-based deep learning models while tracking and optimizing energy consumption using CodeCarbon.
+This project trains EfficientNet-based deep learning models while tracking and optimizing the energy consumption using CodeCarbon.
 
 ---
 
